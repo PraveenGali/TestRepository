@@ -4,8 +4,11 @@ For the project, I used java and Maven. We need to install jdk 1.5 or above and 
 
 <b> To Run the tests </b>, Please follow the below steps </br>
 
-Open Eclipse </br>
-Import the project into Eclipse. </br>
+
+Clone the below repository  <br>
+https://github.com/PraveenGali/TestRepository.git <br>
+Open Eclipse  </br>
+Import the cloned project into Eclipse. </br>
 Go the class "JavaLongestStringInStringArrayTest.java" </br>
 Right click and Run as Junit Test </br>
 
@@ -24,8 +27,10 @@ The method longestWordLength will return the longest string length in the given 
 
 <b> To run the Main Class </b> </br>
 
-Open Eclipse </br>
-Import the project into Eclipse. </br>
+Clone the below repository  <br>
+https://github.com/PraveenGali/TestRepository.git <br>
+Open Eclipse  </br>
+Import the cloned project into Eclipse. </br>
 Go the class "JavaLongestStringInStringArray.java" </br>
 Right click and Run as Java Application </br>
 Program will run and the below output is shown: </br>
